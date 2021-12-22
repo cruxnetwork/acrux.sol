@@ -1,0 +1,2 @@
+# acrux.sol
+Acrux Token
